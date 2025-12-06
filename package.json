@@ -1,0 +1,23 @@
+{
+  "name": "flaredup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshabhinav/FlaredUpnew.git"
+  },
+  "keywords": [
+    "mt5",
+    "clone"
+  ],
+  "author": "infibytes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshabhinav/FlaredUpnew/issues"
+  },
+  "homepage": "https://github.com/harshabhinav/FlaredUpnew#readme"
+}
